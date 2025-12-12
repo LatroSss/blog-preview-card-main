@@ -64,7 +64,7 @@ main{
     background-color: var(--yellow);
     width: fit-content;
     padding: 8px 16px;
-    border-radius: 10px;
+    border-radius: 5px;
     margin:0  20px 0 20px;
 }
 .card-content-body-date{
@@ -88,6 +88,7 @@ main{
     color: var(--gray-500);
     margin: 0 0 12px 0;
     margin-left: 20px;
+    line-height: 1.7;
 }
 .card-content-body-footer{
     display: flex;
